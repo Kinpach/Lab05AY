@@ -1,0 +1,12 @@
+Credit 1
+1000000
+RUB
+7.5
+Credit 2
+500000
+RUB
+9.2
+Credit 3
+2000000
+USD
+5.8
