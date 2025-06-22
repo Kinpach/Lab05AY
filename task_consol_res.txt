@@ -1,0 +1,32 @@
+set
+Name: Credit 3
+Sum: 2e+06
+Currency: USD
+Stake: 5.8
+
+Name: Credit 1
+Sum: 1e+06
+Currency: RUB
+Stake: 7.5
+
+Name: Credit 2
+Sum: 500000
+Currency: RUB
+Stake: 9.2
+
+
+unordered_set
+Name: Credit 3
+Sum: 2e+06
+Currency: USD
+Stake: 5.8
+
+Name: Credit 2
+Sum: 500000
+Currency: RUB
+Stake: 9.2
+
+Name: Credit 1
+Sum: 1e+06
+Currency: RUB
+Stake: 7.5
